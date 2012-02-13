@@ -1,9 +1,8 @@
-
-This is a small repo where I will put things imeplemented with ESHarmony Proxies. Right now, it only includes the generic wrapper `ProxyInterface` and `overloadable`, both of which run in nodejs with a modified V8 install.
+This is a small repo where I will put things implemented with ESHarmony Proxies. Right now, it only includes the generic wrapper `ProxyInterface` and `overloadable`, both of which run in nodejs with a modified V8 install.
 
 ## Installation of Node with ESHarmony Proxies:
 
-Get the latest `node` from git:
+Get the latest `node` from git (confirmed working on `0.7.4pre` -- might work on a stable version -- *haven't tested*):
 
     git://github.com/joyent/node.git
 
